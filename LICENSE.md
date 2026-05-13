@@ -1,4 +1,4 @@
-# 
+# advanced Liquidity Bot for birdeye sniper bot | take-profit & rug-pull-detection offers the most advanced birdeye sniper bot, with take-profit and rug-pull-detection. Ideal for
 
 
 
